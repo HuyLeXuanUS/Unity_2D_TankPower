@@ -25,4 +25,5 @@ Toàn bộ code là xử lí logic cho vật thể, có thể lấy tài nguyên
 
 ## Link tải tài nguyên
 Code: https://drive.google.com/drive/folders/1z_qrAT3iDc_on-4vtEXsS7AvgYlYLjvh?usp=sharing
+
 App demo: https://drive.google.com/drive/folders/1OIMWivalHUDv4L8tXbJ5YtEYfWFOg5fn?usp=drive_link
