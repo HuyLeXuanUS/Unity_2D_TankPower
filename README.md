@@ -33,3 +33,4 @@ Code: https://drive.google.com/drive/folders/1z_qrAT3iDc_on-4vtEXsS7AvgYlYLjvh?u
 App demo: https://drive.google.com/drive/folders/1OIMWivalHUDv4L8tXbJ5YtEYfWFOg5fn?usp=drive_link
 
 ## Link video demo
+https://youtu.be/PpEDju-ggQE
